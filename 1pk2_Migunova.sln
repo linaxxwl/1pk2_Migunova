@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_03", "Lesson_03", "{55AD88E6-C86E-458A-B323-B4E9E9D0EF45}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_03_04", "Task_03_04\Task_03_04.csproj", "{F5CE198F-0311-4A69-B31A-CD3A51B77BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_03_05", "Task_03_05\Task_03_05.csproj", "{DEDDB984-9985-42AD-BB97-BC7C7AB6EA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_03_08", "Task_03_08\Task_03_08.csproj", "{D954D0D2-C257-4DDB-8C9E-93FA82170AF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,11 +21,21 @@ Global
 		{F5CE198F-0311-4A69-B31A-CD3A51B77BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5CE198F-0311-4A69-B31A-CD3A51B77BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5CE198F-0311-4A69-B31A-CD3A51B77BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDDB984-9985-42AD-BB97-BC7C7AB6EA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDDB984-9985-42AD-BB97-BC7C7AB6EA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDDB984-9985-42AD-BB97-BC7C7AB6EA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDDB984-9985-42AD-BB97-BC7C7AB6EA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D954D0D2-C257-4DDB-8C9E-93FA82170AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D954D0D2-C257-4DDB-8C9E-93FA82170AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D954D0D2-C257-4DDB-8C9E-93FA82170AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D954D0D2-C257-4DDB-8C9E-93FA82170AF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F5CE198F-0311-4A69-B31A-CD3A51B77BDA} = {55AD88E6-C86E-458A-B323-B4E9E9D0EF45}
+		{DEDDB984-9985-42AD-BB97-BC7C7AB6EA80} = {55AD88E6-C86E-458A-B323-B4E9E9D0EF45}
+		{D954D0D2-C257-4DDB-8C9E-93FA82170AF3} = {55AD88E6-C86E-458A-B323-B4E9E9D0EF45}
 	EndGlobalSection
 EndGlobal
