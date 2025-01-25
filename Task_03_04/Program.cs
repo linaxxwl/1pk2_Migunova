@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            string line; 
-            int lineCount = 0; 
+            string line;
+            int lineCount = 0;
 
             while (true)
             {
