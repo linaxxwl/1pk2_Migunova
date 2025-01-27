@@ -6,7 +6,10 @@
         {
             Console.WriteLine(" Введите количество чисел в массиве ");
             int size;
-            while (!int.TryParse(Console.ReadLine(), out size) || size <= 0) ;
+            while (!int.TryParse(Console.ReadLine(), out size) || size <= 0);
+            {
+                Console.WriteLine("");
+            }
 
             int[] numbers = new int[size];
             Random random = new Random();
